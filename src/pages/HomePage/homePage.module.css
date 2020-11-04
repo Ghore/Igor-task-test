@@ -1,0 +1,10 @@
+.eventList{
+    width: 100vw;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.eventList__item{
+    width: 320px;
+}
